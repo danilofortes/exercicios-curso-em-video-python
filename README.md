@@ -1,2 +1,2 @@
 # exercicios-curso-em-video-python
-Repositório com exercícios resolvidos do Curso em Vídeo de Python, ministrado por Gustavo Guanabara. 
+Este repositório foi criado com o objetivo de atualizar e acompanhar meu progresso no curso de Python da plataforma Curso em Vídeo, além de registrar minha experiência e evolução ao longo do aprendizado. Durante essa jornada, explorei diversos tópicos fundamentais, como o uso de álgebra e aritmética aplicadas à programação, bem como a utilização de módulos para resolver problemas de forma prática e eficiente no Python. Utilizo este espaço como um diário de aprendizado e uma maneira de consolidar meu conhecimento enquanto desenvolvo minhas habilidades com a linguagem e com o GitHub.
